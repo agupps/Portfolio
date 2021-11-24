@@ -36,7 +36,7 @@ export default function Intro() {
                     <img
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="./AboutPic1.jpg"
+                        src="./IntroPic1.jpg"
                     />
                 </div>
                 
